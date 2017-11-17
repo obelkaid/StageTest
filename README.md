@@ -1,2 +1,0 @@
-# StageTest
-test git 
